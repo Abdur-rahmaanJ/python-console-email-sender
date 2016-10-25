@@ -1,7 +1,7 @@
 
 
 import smtplib
-import time;
+import time
 import random
 import platform
 
